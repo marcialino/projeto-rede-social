@@ -28,7 +28,7 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
+    height:627px;
     width: 311px;
     
     background: url('../imagens/frame-iphone.png') no-repeat;
@@ -44,7 +44,7 @@ iframe#tela{
 
 section#redes-sociais img{
     padding-top:3px;
-    width: 30px;
+    width: 25px;
     margin:10px;
     border-radius: 50%;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.405);
@@ -54,7 +54,7 @@ section#redes-sociais img{
 
 section#redes-sociais{
     text-align: center;
-    margin-right: 10px;
+    
 }
 
 section#redes-sociais img:hover{
